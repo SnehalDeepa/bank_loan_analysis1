@@ -257,6 +257,9 @@ group by home_ownership
 order by count(id) desc;
 ```
 
-# EXCEL VISUALISATION
+# EXCEL VISUALISATION / DASHBOARD
+## DASHBOARD LINK
+
+<a href="https://github.com/SnehalDeepa/bank_loan_analysis1/blob/main/BANK%20LOAN%20DASH.xlsx">view Dashboard<a/>
 
 
