@@ -258,8 +258,34 @@ order by count(id) desc;
 ```
 
 # EXCEL VISUALISATION / DASHBOARD
+
 ## DASHBOARD LINK
 
 <a href="https://github.com/SnehalDeepa/bank_loan_analysis1/blob/main/BANK%20LOAN%20DASH.xlsx">view Dashboard<a/>
 
+# PYTHON CODE
 
+## STEP_1) DATA PREPARATION
+
+### Import Libraries
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+### Set Plot Style
+
+```python
+sns.set(style="whitegrid")
+```
+
+### Load The Data
+
+```python
+df = pd.read_csv("Electric_Vehicle_Population_Data.csv")
+```
+```python
+df.head()
+```
