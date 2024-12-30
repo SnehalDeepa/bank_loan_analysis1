@@ -263,6 +263,10 @@ order by count(id) desc;
 
 <a href="https://github.com/SnehalDeepa/bank_loan_analysis1/blob/main/BANK%20LOAN%20DASH.xlsx">view Dashboard<a/>
 
+# TABLEAU VISUALISATION / DASHBOARD
+
+<a href="TABLEAU_DASH_BANK.twb">view Dashboard<a/>
+
 # PYTHON CODE
 
 ## STEP_1) DATA PREPARATION
